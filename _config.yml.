@@ -1,6 +1,0 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: [C-TEK SCHOOLS]
-description: [C-TEK Schools is an online tech school that trains students in emerging and relevant technology skills like Software Engineering, Web Development, Digital Marketing, Social Meida Page Management, Content Creation and lots more. We guide, coach, train, drill and certify our students remotely]
